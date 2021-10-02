@@ -27,3 +27,5 @@ lib/
 
 # Application bundle for Mac OS
 *.app/
+
+build/
